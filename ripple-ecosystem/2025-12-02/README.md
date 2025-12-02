@@ -3,9 +3,9 @@
 
 **Research Period:** November 17 - December 2, 2025 (15 days)
 **Previous Research:** November 17, 2025
-**Research Methodology:** Multi-source parallel research synthesis (6 research agents)
-**Total Documentation:** 5 comprehensive documents, ~50,000+ words
-**Data Sources:** 30+ verified sources including official announcements, on-chain analytics, regulatory filings
+**Research Methodology:** Multi-source parallel research synthesis (14 research agents total)
+**Total Documentation:** 7 comprehensive documents, ~109,500+ words
+**Data Sources:** 110+ verified sources including official announcements, on-chain analytics, regulatory filings, MAS registry
 
 ---
 
@@ -21,6 +21,10 @@ This research update builds upon the comprehensive November 17, 2025 research pa
 - ⚠️ **Price consolidation** despite positive developments (-5.1%)
 - ⚠️ **Whale redistribution** ($4.1B selling, ownership consolidation)
 - ⚠️ **Sentiment at Extreme Fear** (Fear & Greed Index: 24)
+
+**PLUS: Two Deep Institutional Research Addendums**
+- 🏦 Major Wall Street relationships analysis (Mastercard, R3, Bank of America, Citibank, Goldman Sachs)
+- 🌏 Vanguard & Singapore regulatory developments (December 1, 2025 announcements)
 
 ---
 
@@ -172,6 +176,69 @@ This research update builds upon the comprehensive November 17, 2025 research pa
 
 ---
 
+### 6. [INSTITUTIONAL_RELATIONSHIPS_ADDENDUM.md](INSTITUTIONAL_RELATIONSHIPS_ADDENDUM.md) **← DEEP DIVE: Wall Street**
+
+**What it covers:**
+- Deep analysis of 5 major Wall Street institutions' relationships with Ripple/XRP:
+  - **Mastercard:** Active production partnership (RLUSD settlement pilot, CBDC Partner Program)
+  - **R3 Consortium:** Legal settlement history, Corda Settler integration, current divergence
+  - **Bank of America:** RippleNet governance role, patent portfolio, unverified usage claims
+  - **Citibank:** Competitive positioning, Citi Token Services, no direct partnership
+  - **Goldman Sachs:** GS DAP proprietary strategy, no confirmed Ripple involvement
+- $500M Citadel investment implications and interconnections
+- Critical distinction: RLUSD stablecoin adoption ≠ XRP token usage
+- Investment thesis revision: +415% expected 2026 return (updated from +130%)
+- 80+ verified sources with fact/speculation labeling
+
+**Who should read:** Institutional investors, strategic analysts, anyone evaluating institutional adoption narrative
+
+**Length:** ~23,000 words | **Time to read:** 60-75 minutes
+
+**Key finding:** Only 1 of 5 institutions (Mastercard) has confirmed active production partnership
+
+---
+
+### 7. [VANGUARD_SINGAPORE_ADDENDUM.md](VANGUARD_SINGAPORE_ADDENDUM.md) **← DEEP DIVE: December 1 Announcements**
+
+**What it covers:**
+- **Vanguard Policy Reversal (December 1, 2025):**
+  - Platform access to XRP ETFs for 50M+ customers (NOT corporate investment)
+  - Official statements and what Vanguard is NOT doing
+  - Historical anti-crypto stance and why the reversal matters
+  - Client demand, leadership change, market maturation analysis
+  - 13F filing timeline (February 2026) for institutional holdings data
+  - Unverified Ripple-Vanguard tokenization partnership claims
+- **Singapore MAS License Expansion (December 1, 2025):**
+  - Ripple Markets APAC expanded Major Payment Institution license
+  - Enables XRP and RLUSD token-based settlements across Asia-Pacific
+  - DBS Bank partnership using XRP Ledger (September 2025)
+  - Singapore Fintech Festival 2025 participation with Deputy PM
+  - XSGD stablecoin on XRPL backed by DBS and Standard Chartered
+  - Project Orchid (CBDC): No confirmed Ripple involvement
+  - Project Ubin (2016-2020): Minimal Ripple role (Phase 1 only)
+- **Fact-Checking Analysis:**
+  - Two separate announcements conflated in crypto media
+  - Platform access ≠ corporate investment
+  - Commercial license ≠ government adoption
+  - RippleNet partnership ≠ XRP token usage
+  - Media coverage pattern analysis (accuracy levels)
+- **Singapore as #1 Global Blockchain Hub:**
+  - Ranking: Singapore (85.4), Hong Kong (82.7), Switzerland (80.2)
+  - 2,400+ blockchain jobs, 81 crypto exchanges, 83% Fortune 500 pilots
+  - CIMB and InstaReM production deployments in ASEAN
+- **XRP Token vs RippleNet Usage:**
+  - Technical distinction and when XRP provides value
+  - On-Demand Liquidity (ODL) service explanation
+  - Production vs pilot deployment status
+
+**Who should read:** Investors evaluating institutional narratives, compliance professionals, anyone confused by December 1 "Vanguard-Singapore announcement"
+
+**Length:** ~26,000 words | **Time to read:** 70-85 minutes
+
+**Critical takeaway:** Platform Access ≠ Corporate Investment | Commercial License ≠ Government Adoption
+
+---
+
 ## 🔗 Connection to Previous Research
 
 ### November 17, 2025 Research Package
@@ -219,6 +286,7 @@ This research update builds upon the comprehensive November 17, 2025 research pa
 **📊 Investors / Portfolio Managers**
 → Start: [EXECUTIVE_SUMMARY.md](EXECUTIVE_SUMMARY.md)
 → Then: [STRATEGIC_OUTLOOK.md](STRATEGIC_OUTLOOK.md) (investment thesis)
+→ Deep Dive: [INSTITUTIONAL_RELATIONSHIPS_ADDENDUM.md](INSTITUTIONAL_RELATIONSHIPS_ADDENDUM.md) (Wall Street analysis)
 → Reference: [MARKET_ANALYSIS_DEC_2025.md](MARKET_ANALYSIS_DEC_2025.md) (price analysis)
 
 **📈 Traders / Technical Analysts**
@@ -228,6 +296,8 @@ This research update builds upon the comprehensive November 17, 2025 research pa
 
 **🏛️ Institutional / Compliance**
 → Start: [REGULATORY_INSTITUTIONAL_UPDATES.md](REGULATORY_INSTITUTIONAL_UPDATES.md)
+→ Deep Dive: [VANGUARD_SINGAPORE_ADDENDUM.md](VANGUARD_SINGAPORE_ADDENDUM.md) (regulatory developments)
+→ Deep Dive: [INSTITUTIONAL_RELATIONSHIPS_ADDENDUM.md](INSTITUTIONAL_RELATIONSHIPS_ADDENDUM.md) (partnerships)
 → Then: [EXECUTIVE_SUMMARY.md](EXECUTIVE_SUMMARY.md)
 → Reference: [STRATEGIC_OUTLOOK.md](STRATEGIC_OUTLOOK.md) (risk assessment)
 
@@ -258,6 +328,8 @@ This research update builds upon the comprehensive November 17, 2025 research pa
 - [TECHNICAL_ONCHAIN_ANALYSIS.md](TECHNICAL_ONCHAIN_ANALYSIS.md) → Section: Whale Wallet Dynamics
 
 **🏦 Banking & Partnerships**
+- [INSTITUTIONAL_RELATIONSHIPS_ADDENDUM.md](INSTITUTIONAL_RELATIONSHIPS_ADDENDUM.md) → Complete analysis of 5 major institutions
+- [VANGUARD_SINGAPORE_ADDENDUM.md](VANGUARD_SINGAPORE_ADDENDUM.md) → DBS Bank partnership, Singapore ecosystem
 - [REGULATORY_INSTITUTIONAL_UPDATES.md](REGULATORY_INSTITUTIONAL_UPDATES.md) → Section: Major Partnership Announcements
 - [EXECUTIVE_SUMMARY.md](EXECUTIVE_SUMMARY.md) → Section: Banking Partnerships Reach 300+
 
@@ -556,7 +628,9 @@ This research update builds upon the comprehensive November 17, 2025 research pa
 | REGULATORY_INSTITUTIONAL_UPDATES.md | ~11,500 | 12+ | 8 | 35-45 min |
 | TECHNICAL_ONCHAIN_ANALYSIS.md | ~10,800 | 20+ | 8 | 30-40 min |
 | STRATEGIC_OUTLOOK.md | ~12,200 | 18+ | 8 | 35-45 min |
-| **Total Package** | **~61,500** | **90+** | **45** | **~3 hours** |
+| INSTITUTIONAL_RELATIONSHIPS_ADDENDUM.md | ~23,000 | 25+ | 8 | 60-75 min |
+| VANGUARD_SINGAPORE_ADDENDUM.md | ~26,000 | 30+ | 9 | 70-85 min |
+| **Total Package** | **~109,500** | **145+** | **62** | **~5.5 hours** |
 
 ---
 
